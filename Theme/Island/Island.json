@@ -1,0 +1,17 @@
+{
+  "imageFilename": "Island_*.jpg",
+  "imageCredits": "Wallpaper",
+
+  "sunriseImageList": [
+    5
+  ],
+  "dayImageList": [
+    12
+  ],
+  "sunsetImageList": [
+    16
+  ],
+  "nightImageList": [
+    0
+  ]
+}

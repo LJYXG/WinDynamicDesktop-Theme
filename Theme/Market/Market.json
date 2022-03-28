@@ -1,0 +1,13 @@
+{
+  "imageFilename": "Market_*.jpg",
+  "imageCredits": "Wallpaper",
+  "dayImageList": [
+    12
+  ],
+  "sunsetImageList": [
+    6
+  ],
+  "nightImageList": [
+    0
+  ]
+}

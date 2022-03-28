@@ -1,0 +1,22 @@
+{
+  "imageFilename": "Mountains_*.jpg",
+  "imageCredits": "Wallpaper",
+
+  "sunriseImageList": [
+    5,
+    7
+  ],
+  "dayImageList": [
+    9,
+    11,
+    14
+  ],
+  "sunsetImageList": [
+    17
+  ],
+  "nightImageList": [
+    21,
+    0,
+    3
+  ]
+}

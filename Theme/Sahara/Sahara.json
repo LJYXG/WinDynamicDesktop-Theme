@@ -1,0 +1,31 @@
+{
+  "imageFilename": "Sahara_*.jpg",
+  "imageCredits": "Wallpaper",
+
+  "sunriseImageList": [
+    3,
+    4,
+    5
+  ],
+  "dayImageList": [
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18
+  ],
+  "sunsetImageList": [
+    19,
+    20,
+    21
+  ],
+  "nightImageList": [
+    22,
+    23,
+    0,
+    1,
+    2
+  ]
+}

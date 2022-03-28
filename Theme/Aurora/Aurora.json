@@ -1,0 +1,29 @@
+{
+  "imagesZipUri": "aurora.ddw",
+  "imageFilename": "Aurora_*.jpg",
+  "imageCredits": "24 Hour Wallpaper?",
+  "sunsetImageList": [
+    16,
+    17,
+    18,
+    20
+  ],
+  "sunriseImageList": [
+    2,
+    4,
+    5,
+    6,
+    8
+  ],
+  "dayImageList": [
+    10,
+    11,
+    12,
+    14,
+    15
+  ],
+  "nightImageList": [
+    22,
+    0
+  ]
+}

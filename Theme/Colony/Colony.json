@@ -1,0 +1,14 @@
+{
+  "imageFilename": "Colony_*.jpg",
+  "imageCredits": "Wallpaper",
+
+  "sunriseImageList": [
+    1
+  ],
+  "dayImageList": [
+    3
+  ],
+  "nightImageList": [
+    0
+  ]
+}

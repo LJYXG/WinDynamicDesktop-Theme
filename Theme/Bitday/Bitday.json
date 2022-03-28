@@ -1,0 +1,25 @@
+{
+  "imageFilename": "Bitday_*.png",
+  "imageCredits": "24 Hour Wallpaper?",
+
+  "sunriseImageList": [
+    4,
+    6
+  ],
+  "dayImageList": [
+    8,
+    10,
+    12,
+    14
+  ],
+  "sunsetImageList": [
+    16,
+    18,
+    20
+  ],
+  "nightImageList": [
+    21,
+    0,
+    2
+  ]
+}

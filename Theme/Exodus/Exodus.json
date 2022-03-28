@@ -1,0 +1,14 @@
+{
+  "imageFilename": "Exodus_*.jpg",
+  "imageCredits": "Wallpaper",
+
+  "sunriseImageList": [
+    6
+  ],
+  "dayImageList": [
+    0
+  ],
+  "nightImageList": [
+    12
+  ]
+}

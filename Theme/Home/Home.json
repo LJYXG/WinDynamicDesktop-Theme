@@ -1,0 +1,14 @@
+{
+  "imageFilename": "Home_*.jpg",
+  "imageCredits": "Wallpaper",
+
+  "sunriseImageList": [
+    6
+  ],
+  "dayImageList": [
+    12
+  ],
+  "nightImageList": [
+    0
+  ]
+}
